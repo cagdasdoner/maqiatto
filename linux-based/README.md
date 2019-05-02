@@ -1,6 +1,6 @@
 
 
-Setup Guide for Linux based 
+Setup Guide for Linux based systems
   
 This tiny client app aims to subscribe and publish to a topic via maqiatto.com.
   
@@ -18,9 +18,9 @@ NOTE: Your system may need to have OpenSSL and Curl libraries. If necessary type
   
 Go for client code :
   
-    git clone git clone https://github.com/cagdasdoner/maqiatto.git
+    git clone https://github.com/cagdasdoner/maqiatto.git
     cd maqiatto/linux-based
-    Change your credentials (broker address, username, pass) under credentials.h.
+    #Note: Change your credentials (broker address, username, pass) under credentials.h.
   
 To compile and run the client code, use type them below :
   
