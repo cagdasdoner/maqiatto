@@ -5,7 +5,7 @@
 * PubSubClient		: https://github.com/knolleary/pubsubclient/
 
 ### Configuring the Sample Code
-* After importing code base into your Arduino IDE, change the Credentials.h file according to provided broker credentials.
+* After importing code base into your Arduino IDE, change the **Credentials.h** file according to provided broker credentials.
 ```
 /* Provide MQTT broker credentials as denoted in maqiatto.com. */
 #define MQTT_USERNAME     "your-maqiatto-user-name"
