@@ -1,4 +1,4 @@
-## MaQiaTTo ESP8266 Client
+## MaQiaTTo ESP8266 Arduino Client
 ### Arduino IDE Setup
 * Install the Arduino IDE 1.6.4 or greater from this [site](https://www.arduino.cc/en/Main/Software)
 * To Install the ESP8266 Board Package, go to **File->Preferences** from IDE menu.
@@ -24,7 +24,7 @@ PubSubClient
 ```
 $ git clone https://github.com/cagdasdoner/maqiatto.git
 ```
-* From gathered directory, navigate into ESP8266 related code :
+* From gathered directory, navigate into ESP8266 Arduino related code :
 ```
 $ cd maqiatto/esp8266_arduino
 ```
