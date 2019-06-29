@@ -7,7 +7,7 @@
 ### Get ESP32 Sample Code
 * Get MaQiaTTo sample codes via git or just download it as zip :
 ```
-$ git clone https://github.com/cagdasdoner/maqiatto
+$ git clone https://github.com/cagdasdoner/maqiatto.git
 ```
 * Navigate into the ESP32 sample directory :
 ```
