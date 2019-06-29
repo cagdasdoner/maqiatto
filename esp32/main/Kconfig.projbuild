@@ -1,0 +1,21 @@
+menu "MaQiaTTo MQTT Configuration"
+
+    config BROKER_USERNAME
+        string "Broker username"
+        default "type your username here"
+        help
+            Username for the broker to connect to
+
+    config BROKER_PASSWORD
+        string "Broker password"
+        default "type your broker password here"
+        help
+            Password for the broker to connect to
+
+    config BROKER_TOPIC
+        string "Broker topic"
+        default "type your broker test topic here"
+        help
+            Topic for the broker to send message
+
+endmenu
