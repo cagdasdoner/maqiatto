@@ -26,7 +26,7 @@ $ git clone https://github.com/cagdasdoner/maqiatto.git
 ```
 * From gathered directory, navigate into ESP8266 Arduino related code :
 ```
-$ cd maqiatto/esp8266_arduino
+$ cd maqiatto/esp8266_arduino/maqiatto
 ```
 * Import **maqiatto.ino** file via **File->Open** to get all other required files.
 * Open **Credentials.h** file to update the given credentials with yours, like below:
