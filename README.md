@@ -13,6 +13,6 @@ MaQiatto provides several IoT device sample codes for you to easily start using 
 
 ### Secure MQTT
 MaQiaTTo now supports secure MQTT connection over TLS/SSL. Here some keynotes that you should know before proceed:
-* Secure port is assigned as 3883.
+* Secure port is assigned as **3883**.
 * [cafile](https://github.com/cagdasdoner/maqiatto/tree/master/cert/ca.crt) need to be provided to your client's requests. Examples will be extended soon to demonstrate secure connectivity.
 * This feature is under test with self signed certificates, will be switched to known certificate authorities asap.
